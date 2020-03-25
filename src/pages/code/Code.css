@@ -1,0 +1,12 @@
+.outer {
+}
+
+.top {
+  height: 70%;
+  width: fit-content;
+}
+
+.bottom {
+  max-height: 30% !important;
+  width: fit-content;
+}
